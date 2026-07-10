@@ -1,0 +1,1 @@
+- [Terraform baseline state (2026-07-09 audit)](terraform_baseline_state.md) — what actually exists in terraform/ vs. what CLAUDE.md architecture docs claim

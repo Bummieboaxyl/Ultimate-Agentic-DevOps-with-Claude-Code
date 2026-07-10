@@ -1,0 +1,3 @@
+- [S3 Versioning Cost Leak](s3-versioning-leak.md) — S3 versioning enabled with no lifecycle policies
+- [CloudFront Price Class Oversized](cloudfront-price-class.md) — PriceClass_200 when 100 would suffice for portfolio
+- [Static Site Cost Profile](static-site-costs.md) — Portfolio deployment architecture and cost drivers
